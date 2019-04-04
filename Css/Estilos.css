@@ -1,0 +1,54 @@
+* {
+
+	box-sizing: border-box;
+}
+body{
+
+	margin: 0;
+	padding: 0;
+	background: #333;
+}
+.percent-count{
+
+
+	width: 450px;
+	height: 50px;
+	margin: 100px auto;
+	font-size: 30px;
+	text-align: center;
+	color: #fff;
+}
+.progress-bar{
+
+	width: 506px;
+	height: 26px;
+	background-color: #bbb;
+	border-radius: 13px;
+	padding: 3px;
+	margin: 25px auto;
+	
+
+}
+
+.progress{
+
+	width: 25px;
+	height: 20px;
+	border-radius: 10px;
+	background-color: #1b143f;
+	text-shadow: 2px 2px 10px red;
+
+}
+.fondo{
+
+	background-color: #063847;
+	margin-left: 120px;
+	margin-right: 120px;
+	border-radius: 20px;
+	
+
+}
+.diseñar{
+
+	text-shadow: 2px 2px 7px white;
+}
